@@ -6,3 +6,21 @@
 body {
     font-family: 'Open Sans', sans-serif;
 }
+header {
+    height: 100px;
+    background: gray;
+    display: flex;
+    justify-content: space-around;
+}
+ul {
+    display: flex;
+    list-style-type: none;   
+}
+ul li a {
+    padding: 0 20px;
+    text-decoration: none;
+    color: #3a3a3a;
+}
+.shadow {
+    background: #c4c4f7;
+}
